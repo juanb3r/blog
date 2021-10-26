@@ -1,0 +1,4 @@
+Está es mi historia.
+
+Estoy practicando para mejorar el uso de git dentro de mis proyectos.
+Espero que todo salga bien, y si no se puede borrar y crear un proyecto nuevo.
