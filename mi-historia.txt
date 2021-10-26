@@ -2,3 +2,6 @@ Está es mi historia.
 
 Estoy practicando para mejorar el uso de git dentro de mis proyectos.
 Espero que todo salga bien, y si no se puede borrar y crear un proyecto nuevo.
+
+Nací en El Paso, Cesar - Colombia, tengo que 30 años? digamos 20 para no perdernos
+en el tiempo.
